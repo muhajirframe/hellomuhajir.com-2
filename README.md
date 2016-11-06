@@ -1,1 +1,3 @@
-# [HelloMuhajir](https://hellomuhajir.com) Hellomuhajir.com-2
+# Hellomuhajir.com-2
+
+Rebuilding hellomuhajir.com with react
